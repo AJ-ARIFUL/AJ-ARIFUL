@@ -17,8 +17,8 @@
 - 🌱 Learning **Next.js, TypeScript & Cloud**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me: **arif@example.com**
-- 📍 Location: **Dhakajhalpara, Khulna, Bangladesh**
+- 📫 Reach me: **mdarifulyt2@gmail.com**
+- 📍 Location: **Kushtia, Dhaka, Bangladesh**
 - ⚡ Fun fact: **I turn coffee into code**
 
 ### 🛠️ Tech Stack
@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AJ-ARIFUL&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AJ-ARIFUL&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://wa.me/8801320630383"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:mdarifulyt2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://facebook.com/YOUR_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/19xKud2CCx/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/AJ-ARIFUL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
