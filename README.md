@@ -6,6 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=JavaScript+Developer;React+%26+Node.js+Expert;Open+Source+Contributor;Full+Stack+Engineer;Web+Designer+from+Bangladesh" alt="Typing Animation" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=250&section=header"/>
+      <br>
+      <img src="https://github.com/AJ-ARIFUL.png" width="120" style="margin-top: -180px; border-radius: 50%; border: 4px solid #fff;"/>
+      <br><br>
+      <h1>MD ARIFUL ISLAM JIM</h1>
+      <h3>Full Stack Developer | Web Designer</h3>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJ-ARIFUL&theme=tokyonight" />
 </p>
