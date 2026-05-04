@@ -1,34 +1,49 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AJ-ARIFUL/AJ-ARIFUL/main/banner.png" alt="MD ARIFUL ISLAM JIM Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=200&section=header&text=MD%20ARIFUL%20ISLAM%20JIM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Web%20Designer&descAlignY=55&descAlign=50"/>
 </p>
-<h1 align="center">Hi 👋, I'm MD ARIFUL ISLAM JIM</h1>
-<h3 align="center">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer;JavaScript+Expert;React+Developer;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=JavaScript+Developer;React+%26+Node.js+Expert;Open+Source+Contributor;Full+Stack+Engineer;Web+Designer+from+Bangladesh" alt="Typing Animation" />
 </p>
 
-- 🔭 I’m currently working on **URL Shortener Tools**
-- 🌱 I’m currently learning **Next.js & TypeScript**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **URL Shortener & Web Tools**
+- 🌱 Learning **Next.js, TypeScript & Cloud**
+- 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **arif@example.com**
-- ⚡ Fun fact: **I love to code at night**
+- 📫 Reach me: **arif@example.com**
+- 📍 Location: **Dhakajhalpara, Khulna, Bangladesh**
+- ⚡ Fun fact: **I turn coffee into code**
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,git,github,vscode,figma" />
-</p>
-
-### 📊 GitHub Stats:
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,git,github,vscode,figma,vercel&perline=8" />
 </p>
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.facebook.com/share/1JeFLtkJpU/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://wa.me/8801320630383" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:mdarifulyt2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://wa.me/8801XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:arif@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/YOUR_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=120&section=footer" />
 </p>
