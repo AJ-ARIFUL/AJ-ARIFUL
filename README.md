@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AJ-ARIFUL/AJ-ARIFUL/main/banner.png" alt="MD ARIFUL ISLAM JIM Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm MD ARIFUL ISLAM JIM</h1>
 <h3 align="center">Full Stack Developer from Bangladesh 🇧🇩</h3>
 
