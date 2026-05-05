@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=JavaScript+Developer;React+%26+Node.js+Expert;Open+Source+Contributor;Full+Stack+Engineer;Web+Designer+from+Bangladesh" alt="Typing Animation" />
 </p>
 
+<img src="https://raw.githubusercontent.com/AJ-ARIFUL/AJ-ARIFUL/main/logo.png" width="100" style="position: relative; margin-top: -160px; margin-left: 450px;"/>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJ-ARIFUL&theme=tokyonight" />
 </p>
