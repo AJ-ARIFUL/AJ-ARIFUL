@@ -10,14 +10,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJ-ARIFUL&theme=tokyonight" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=200&section=header&text=MD%20ARIFUL%20ISLAM%20JIM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-  
-  <img src="https://raw.githubusercontent.com/AJ-ARIFUL/AJ-ARIFUL/main/logo.png" width="90" style="margin-top: -140px; margin-left: 400px;"/>
-</div>
-
----
-
 ### 🚀 About Me
 - 🔭 Currently working on **URL Shortener & Web Tools**
 - 🌱 Learning **Next.js, TypeScript & Cloud**
