@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AJ-ARIFUL/AJ-ARIFUL/main/logo.png" width="400" style="position: relative; margin-top: -160px; margin-left: 450px;"/>
+  <img src="https://raw.githubusercontent.com/AJ-ARIFUL/AJ-ARIFUL/main/logo.png" width="300" style="position: relative; margin-top: -160px; margin-left: 450px;"/>
 </div>
 
 <p align="center">
